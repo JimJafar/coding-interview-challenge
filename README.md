@@ -29,4 +29,9 @@ When a user clicks the *view recipe* links, show a modal with the complete recip
 ### The stack
 
 Please use React and Redux plus your choice of Redux Saga or Thunk.
+
 Please also write at least one unit test.
+
+### Delivery
+
+Please provide your finished app as a repo on GitHub/Bitbucket/Somewhere else.
