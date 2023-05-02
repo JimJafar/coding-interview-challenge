@@ -1,6 +1,6 @@
-# The Hungry Palowan
+# The Hungry Colleague
 
-A simple challenge for people interviewing for developer roles at Palo IT.
+A simple challenge for people interviewing for developer roles at one of my previous roles.
 
 ## The Spoonacular API
 
